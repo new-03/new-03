@@ -2,10 +2,11 @@
 
 ### ABOUT ME
 My name is Nguyễn Duy Tân — a mechatronics student at Can Tho University.<br>
-My interests include hardware programming, mobile robotics, machine learning, and ROS.<br>
+My interests include hardware programming, mobile robotics, machine learning, and ROS.
 
 ### HOW TO REACH ME
-[Youtube](https://www.youtube.com/@duytan-03) [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/duy-t%C3%A2n-nguy%E1%BB%85n-93b248341/)
+[![Youtube](./Youtube_logo.png) Youtube](https://www.youtube.com/@duytan-03) <br>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/duy-t%C3%A2n-nguy%E1%BB%85n-93b248341/)
 
 ### TOP PROJECT
 <a href="https://github.com/new-03/Arduino-VFD-Modbus-RS485-Control">
