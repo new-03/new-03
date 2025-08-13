@@ -27,3 +27,7 @@ My interests include hardware programming, mobile robotics, machine learning, an
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=new-03&repo=STM32-PID-Controller&theme=synthwave" />
 </a> 
+<a href="https://github.com/new-03/MSP430-TempSys">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=new-03&repo=MSP430-TempSys&theme=highcontrast" />
+</a> 
