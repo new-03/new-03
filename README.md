@@ -9,6 +9,12 @@ My interests include hardware programming, mobile robotics, machine learning, an
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  Linkedin](https://www.linkedin.com/in/duy-t%C3%A2n-nguy%E1%BB%85n-93b248341/)
 
 ### TOP REPOSITORIES
+
+<!-- <a href="................................."> -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=new-03&repo=.................&theme=............." />
+</a> -->
+
 <a href="https://github.com/new-03/Arduino-VFD-Modbus-RS485-Control">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=new-03&repo=Arduino-VFD-Modbus-RS485-Control&theme=radical" />
@@ -16,4 +22,8 @@ My interests include hardware programming, mobile robotics, machine learning, an
 <a href="https://github.com/new-03/STM32-2DOF-SCARA">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=new-03&repo=STM32-2DOF-SCARA&theme=dark" />
+</a> 
+<a href="https://github.com/new-03/STM32-PID-Controller">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=new-03&repo=STM32-PID-Controller&theme=synthwave" />
 </a> 
