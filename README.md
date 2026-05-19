@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 My name is Nguyễn Duy Tân — a mechatronics student at Can Tho University.<br>
-My interests include hardware programming, mobile robotics, machine learning, and ROS.
+My interests include hardware programming, mobile robotics, and ROS.
 
 ### HOW TO REACH ME
 [![Youtube](./Youtube_logo.png) Youtube](https://www.youtube.com/@duytan-03) <br>
